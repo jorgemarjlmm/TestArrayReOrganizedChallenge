@@ -1,0 +1,6 @@
+C:\Users\JLMM\source\repos\TestArrayCustom\BLLTestArray\bin\Debug\BLLTestArray.dll
+C:\Users\JLMM\source\repos\TestArrayCustom\BLLTestArray\bin\Debug\BLLTestArray.pdb
+C:\Users\JLMM\source\repos\TestArrayCustom\BLLTestArray\obj\Debug\BLLTestArray.csproj.AssemblyReference.cache
+C:\Users\JLMM\source\repos\TestArrayCustom\BLLTestArray\obj\Debug\BLLTestArray.csproj.CoreCompileInputs.cache
+C:\Users\JLMM\source\repos\TestArrayCustom\BLLTestArray\obj\Debug\BLLTestArray.dll
+C:\Users\JLMM\source\repos\TestArrayCustom\BLLTestArray\obj\Debug\BLLTestArray.pdb
